@@ -19,3 +19,6 @@ This project implements a Traffic Light Controller using Verilog HDL. It demonst
 
 ## Author
 Stephen Sowmya
+
+
+
